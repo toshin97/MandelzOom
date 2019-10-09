@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  house.cpp
+house.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  House.vcxproj -> C:\Users\thellman\Documents\Visual Studio 2015\Projects\378-Projects\Assignments\cs378-assignment1-files\House\Debug\House.exe
